@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "juan actualizado",
+      "empresa": "ErickDevelepers",
+      "email": "crachipp01@gmail.com",
+      "telefono": "123123",
+      "notas": "sadsad",
+      "id": 1
+    },
+    {
+      "nombre": "erick",
+      "empresa": "ErickDevelepers",
+      "email": "crachipp01@gmail.com",
+      "telefono": "12314124124",
+      "notas": "El Mejor Cliente",
+      "id": 2
+    },
+    {
+      "nombre": "edgar actualizado",
+      "empresa": "codigo con juan",
+      "email": "correo@correo.com",
+      "telefono": "1231231",
+      "notas": "servicio",
+      "id": 4
+    },
+    {
+      "nombre": "Erick Romaña",
+      "empresa": "ErickDevelepers",
+      "email": "crachipp01@gmail.com",
+      "telefono": "1231231",
+      "notas": "asdasdas",
+      "id": 5
+    },
+    {
+      "nombre": "Karla",
+      "empresa": "codigo con juan",
+      "email": "crachipp01@gmail.com",
+      "telefono": "1231231",
+      "notas": "compa",
+      "id": 6
+    }
+  ]
+}
